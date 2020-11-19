@@ -3,3 +3,9 @@
     height: 100%;
     padding: 30px;
 }
+
+.cardContainer{
+    color: white;
+    font-size: 1rem;
+    padding: 10px;
+}
